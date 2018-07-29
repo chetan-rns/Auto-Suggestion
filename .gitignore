@@ -5,5 +5,5 @@
 /Trie-code.zip
 *.pdf
 *.exe
-*.txt
-*.dic
+output.txt
+englishwords.dic
