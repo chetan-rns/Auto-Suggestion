@@ -101,7 +101,7 @@ int main() {
 	while (cin >> line) {
 		insert(line);
 	}
-	int result = printAutoSuggestions("aba");
+	int result = printAutoSuggestions("bap");
 	if (result == -1)
 		cout << "No other strings found with this match\n";
 	else if (result == 0)
